@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 # This script creates an RSA key pair with the specified parameters
 
 # Set the key name and passphrase
