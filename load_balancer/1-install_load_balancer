@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
+#Bash script that configures a new Ubuntu machine
 
 # Update the package list and install HAproxy
 sudo apt-get update
